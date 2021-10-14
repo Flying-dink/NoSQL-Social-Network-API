@@ -8,25 +8,25 @@ An API for a social network that uses a NoSQL database, which is able to handle 
 ## Table of Contents
 
 
-Installation
+## Installation
 
 
-Usage
+## Usage
 
 
-Walkthrough Video
+## Walkthrough Video
 
 
-License
+## License
 
 
-Contributing
+## Contributing
 
 
-Questions
+## Questions
 
 
-Installation
+## Installation
 
 
 Clone the repository
@@ -40,8 +40,6 @@ npm install
 
 Setup the MongoDB database
 
-npm start
-Walkthrough Video
 
 
 License
