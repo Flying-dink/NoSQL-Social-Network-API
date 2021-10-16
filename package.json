@@ -18,13 +18,11 @@
   },
   "homepage": "https://github.com/Flying-dink/NoSQL-Social-Network-API#readme",
   "dependencies": {
-  
-    
+    "email-validator": "^2.0.4",
     "express": "^4.17.1",
-    
     "moment": "^2.29.1",
-    
-    "mongoose": "^6.0.10"
-    
+    "mongoose": "^6.0.10",
+    "node-input-validator": "^4.4.1",
+    "validator": "^13.6.0"
   }
 }

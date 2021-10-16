@@ -2,7 +2,7 @@
 //const bodyParser = require('body-parser')
 const express = require("express");
 const mongoose = require("mongoose");
-
+const validator = require("email-validator");
 const app = express();
 const PORT = process.env.PORT || 3001;
 

@@ -1,6 +1,7 @@
 const { Schema, Types, model } = require("mongoose");
 const moment = require("moment"); 
-
+//const validator = require("validator");
+const {isEmail} = require("validator");
 const ReactionSchema = new Schema (
   {
     reactionId: {
