@@ -7,7 +7,6 @@ A REST API for a social media app.
 # Description
 An API for a social network that uses a NoSQL database, which is able to handle large amounts of unstructured data.
 
-## Table of Contents
 
 
 
