@@ -15,7 +15,7 @@ An API for a social network that uses a NoSQL database, which is able to handle 
 
 ## Walkthrough Video
 
-A link to the walk through video here:  
+A link to the walk through video here: https://watch.screencastify.com/v/JDEQ5UJ3S8Zo6KK23CYF 
 
 
 
