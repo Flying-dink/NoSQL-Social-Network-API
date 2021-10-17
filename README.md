@@ -24,17 +24,22 @@ A link to the walk through video here:
 
 ## Installation
 
-
-Clone the repository
-
-
-Install mySQL
-
 npm install
+
+Mongoose
+
+MongoDB
+
+
+Moment
+
+Express
+
+
 
 ## Usage
 
-Setup the MongoDB database
+npm start
 
 
 
