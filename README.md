@@ -1,29 +1,26 @@
 # NoSQL-Social-Network-API
 A REST API for a social media app. 
+![2021-10-16 (2)](https://user-images.githubusercontent.com/83742550/137612149-e0c42738-c0a8-40c2-b961-37ffc0b9096a.png)
+
 
 # Social Network API
+
+
 # Description
 An API for a social network that uses a NoSQL database, which is able to handle large amounts of unstructured data.
 
 ## Table of Contents
 
 
-## Installation
 
 
-## Usage
 
 
-## Walkthrough Video
+## Walkthrough Vide
 
 
-## License
 
 
-## Contributing
-
-
-## Questions
 
 
 ## Installation
@@ -42,14 +39,15 @@ Setup the MongoDB database
 
 
 
-License
-
-This project is licensed under the MIT License.
-
-Contributing
 
 
-Contributions, issues and feature requests are welcome.
 
-Questions
+
+
+
+##  Contributors
+None
+
+
+## Questions
 skydoll96@gmail.com
