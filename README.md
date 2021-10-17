@@ -16,7 +16,7 @@ An API for a social network that uses a NoSQL database, which is able to handle 
 
 
 
-## Walkthrough Vide
+## Walkthrough Video
 
 
 
